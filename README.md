@@ -10,15 +10,15 @@ We are going to keep charging ahead when we get back from break.  Look at all of
 
 >**Reminder:** The threshold for passing Project 1 is 42.
 
-### Finish the TODO API HW
+### Finish the TODO API HW (Required)
 
 This is due the Tuesday we come back.  Get as far as you can, and lean on other devs for help if you're stuck.\*
 
-### Look over your old HWs to make sure you can reproduce the results
+### Look over your old HWs to make sure you can reproduce the results (Optional)
 
 Try starting from scratch, and only look at your older work if you are stuck for more than 10 minutes.
 
-### Look over your old lessons to make sure you know the major terms and where to look in the future
+### Look over your old lessons to make sure you know the major terms and where to look in the future (Optional)
 
 Do not worry about memorizing everything.  You can, and will, use these as a resource for Project 2, and beyond.
 
