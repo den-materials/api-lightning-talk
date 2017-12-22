@@ -10,7 +10,11 @@ We are going to keep charging ahead when we get back from break.  Look at all of
 
 >**Reminder:** The threshold for passing Project 1 is 42.
 
-### Look over your HWs to make sure you can reproduce the results
+### Finish the TODO API HW
+
+This is due the Tuesday we come back.  Get as far as you can, and lean on other devs for help if you're stuck./*
+
+### Look over your old HWs to make sure you can reproduce the results
 
 Try starting from scratch, and only look at your older work if you are stuck for more than 10 minutes.
 
@@ -27,3 +31,5 @@ When we return after break, you will be presenting for ~2 minutes on your findin
 ### CodeWars (Optional)
 
 Go to [CodeWars](https://www.codewars.com) and sharpen your JS skills.  There are challenges all the way from fairly simple (level 8) to incredibly hard (level 1).  Start low, and work your way up, but don't be discouraged if a problem is way over your head.  Just skip and move on to the next one.
+
+/* Please use #wdi6 whenever you're stuck for more than 10 minutes on any task.
